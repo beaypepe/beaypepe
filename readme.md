@@ -2,16 +2,16 @@
 
 ¡Hola y bienvenidos a nuestro rincón de código en GitHub! 👋
 
-Este es el repositorio oficial de **BeayPepe**, nuestro equipo de Geocaching. Aquí compartiremos y alojaremos código, scripts y herramientas relacionadas con el desarrollo, misterios o mantenimiento de algunos de nuestros propios cachés.
+Este es el repositorio oficial de **BeayPepe**, geocachers de Ourense... Aquí compartiremos y alojaremos código, scripts y herramientas relacionadas con el desarrollo, mysteries o mantenimiento de algunos de nuestros propios cachés.
 
 ---
 
 ## 🙋‍♂️🙋‍♀️ ¿Quiénes somos?
 
-Detrás de **BeayPepe** estamos **Bea y Pepe**. Vivimos en Ourense y, aunque nuestras profesiones están en el mundo real (Bea es farmacéutica y Pepe es matemático y director de la Academia @Pi), en nuestro tiempo libre nos transforma por completo el virus del *Geocaching*.
+Detrás de **BeayPepe** estamos **Bea y Pepe**. Vivimos en Ourense y, aunque nuestras profesiones están en el mundo real (Bea es farmacéutica y Pepe es matemático y director de la Academia arrobaPi), en nuestro tiempo libre nos transforma por completo el virus del *Geocaching*.
 
-* **Nuestros inicios:** Empezamos en este sano vicio en **agosto de 2018** (¡encontrando nuestro primer caché en la Plaza de San Marcial de Ourense!). Lo que empezó como una curiosidad de Pepe (con su antiguo nick *jltaboada*), se convirtió rápidamente en una pasión compartida en cuanto Bea descubrió la magia de buscar "tesoros". 
-* **Nuestra evolución:** Desde entonces, hemos recorrido miles de kilómetros, sumado miles de cachés encontrados en viajes increíbles (Londres, Nueva York, Washington, etc.), organizado eventos y, por supuesto, **escondido nuestros propios cachés** para disfrute de la comunidad.
+* **Nuestros inicios:** Empezamos en este sano vicio en **agosto de 2018** (¡encontrando nuestro primer caché en la Plaza de San Marcial de Ourense!, con Carmen2029). Lo que empezó como una curiosidad de Pepe (con su antiguo nick *jltaboada*), se convirtió rápidamente en una pasión compartida en cuanto Bea descubrió la magia de buscar cachés. 
+* **Nuestra evolución:** Desde entonces, hemos recorrido miles de kilómetros, sumado miles de cachés encontrados en viajes increíbles (Londres, Nueva York, Washington, etc.), organizado eventos y, por supuesto, **escondiendo nuestros propios cachés** para disfrute de la comunidad.
 
 Para nosotros, el Geocaching no es solo un juego, ¡es una forma de vivir grandes aventuras!
 
